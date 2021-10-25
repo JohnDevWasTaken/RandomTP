@@ -1,0 +1,13 @@
+name: SimpleRandomTeleport
+version: '${project.version}'
+main: me.qxrvy.simplerandomteleport.SimpleRandomTeleport
+api-version: 1.17
+description: A plugin that lets you teleport to random location in the world, with one simple command.
+commands:
+  randomtp:
+    aliases:
+      - randomteleport
+      - rtp
+    description: Teleports player to random location.
+  rtpreload:
+    description: reloads plugin config

@@ -1,0 +1,4 @@
+min: 1000
+max: 20000
+buttonblock: BEDROCK
+cooldown: 15
